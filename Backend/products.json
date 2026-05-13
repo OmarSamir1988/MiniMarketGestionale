@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop Lenovo",
+        "category": "Elettronica",
+        "price": 651,
+        "quantity": 11
+    },
+    {
+        "id": 2,
+        "name": "Mouse Wireless",
+        "category": "Accessori",
+        "price": 26,
+        "quantity": 40
+    }
+]
